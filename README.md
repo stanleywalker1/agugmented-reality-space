@@ -1,4 +1,4 @@
-# fireflies
+# Template
 
 A VR experiment using the javascript libraries p5.js and A-Frame. This project was built for Interactive Computing at NYU. It was developed with the following p5-A-frame framework built by our professor:
 

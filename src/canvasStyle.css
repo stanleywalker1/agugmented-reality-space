@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    height: 80vh;
+    justify-content: space-around;
+ 
+
+}
+#sketch1 {
+    width: 500px;
+    height: 500px;
+    border: none;
+    overflow: hidden;
+  }
+
+  #sketch2 {
+    width: 500px;
+    border: none;
+    overflow: hidden;
+  }

@@ -1,5 +1,11 @@
 body {
-    background: linear-gradient(to bottom, #000033 0%, #272b19cf 100%);
+  background: 
+  radial-gradient( 
+    farthest-side at bottom left,
+     rgb(0 65 255), #00000021 ), 
+     radial-gradient( farthest-corner at bottom right,
+      rgb(11 214 224),
+       #010505e3 400px );
     overflow: hidden; /* Hide scrollbars */
   }
   .logo {

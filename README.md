@@ -9,3 +9,5 @@ Live Demo:
 * [https://flashdraw.netlify.app/](https://flashdraw.netlify.app/)
 
 Feel free to use and adapt this project as needed while including a link to this repo. Enjoy!
+
+- Trying to optimize to smooth drawing output

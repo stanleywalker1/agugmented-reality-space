@@ -63,7 +63,7 @@ function draw() {
     let xPos = (bestLocation / 4) % 640;
     let yPos = (bestLocation / 4) / 640;
     fill(r1, g1, b1);
-    ellipse(xPos, yPos, 15, 15);
+    ellipse(xPos, yPos, 25, 25);
    // rect(xPos, yPos, 25, 25);
   }
 }
